@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Redux toolkit**
 
-- 👨‍💻 All of my projects are available at [my-portfolio](https://srishtigautam-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [srishti-gautam-portfolio](https://srishtigautam-portfolio.netlify.app)
 
-- 📝 I regularly write articles on [hasnode](https://hashnode.com/@Srishti139)
+- 📝 I sometimes write articles on [hasnode](https://hashnode.com/@Srishti139)
 
 - 💬 Ask me about **React,Javascript,HTML,CSS**
 
