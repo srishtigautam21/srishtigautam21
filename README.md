@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **shrishtigautam14@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1nLmo8P009c5SobMD-8tXiayB5Kj-MyLS/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1cyuxndfPbDfc6Sg1Hc_-QuwhaOFkJKfn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
